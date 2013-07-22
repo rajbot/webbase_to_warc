@@ -1,0 +1,49 @@
+==P=>>>>=i===<<<<=T===>=A===<=!Junghoo!==>
+URL: http://enquirer.com/robots.txt
+Date: 
+Position: 0
+DocId: 0
+
+HTTP/1.1 302 Found
+Date: Mon, 11 Jun 2007 16:21:21 GMT
+Server: Apache
+Location: http://www.enquirer.com/robots.txt
+Content-Length: 280
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://www.enquirer.com/robots.txt">here</a>.</p>
+<hr>
+<address>Apache Server at enquirer.com Port 80</address>
+</body></html>
+
+==P=>>>>=i===<<<<=T===>=A===<=!Junghoo!==>
+URL: http://enquirer.com
+Date: 
+Position: 0
+DocId: 0
+
+HTTP/1.1 202 Found
+Date: Mon, 11 Jun 2007 16:21:22 GMT
+Server: Apache
+Location: http://www.enquirer.com
+Content-Length: 230
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>202 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>HOME PAGE
+<hr>
+</body></html>
+
+==P=>>>>=i===<<<<=T===>=A===<=!Junghoo!==>
+0
